@@ -26,8 +26,8 @@ html,body{
 #title{
     z-index: 1;
     font-family: 'HELLODENVERDISPLAYREGULARRg';
-    color: #ffffff;
-    /* color: #c09cc3; */
+    /* color: #ffffff; */
+    color: #c09cc3;
     font-size: 100px;
     text-shadow: rgb(215, 0, 253) 0px 0px 19px;
     text-align: center;
